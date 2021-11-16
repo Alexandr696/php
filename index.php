@@ -8,5 +8,6 @@
     </head>
     <body>
         <?php echo 'что-то' ?>
+        <h1>444</h1>
     </body>
 </html>
